@@ -13,8 +13,8 @@
 	</properties>
 
 	<dependencies>
-		<dependency>
-			<groupId>junit</groupId>
+		<dependency>t
+			<groupId>ttjunit</groupId>
 			<artifactId>junit</artifactId>
 			<version>4.8.2</version>
 			<scope>test</scope>
